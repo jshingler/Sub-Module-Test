@@ -1,0 +1,3 @@
+[submodule "Sub-Module-A"]
+	path = Sub-Module-A
+	url = https://github.com/jshingler/Sub-Module-A
